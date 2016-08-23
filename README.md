@@ -1,7 +1,4 @@
-My resume
-=========
+[Download my resume](https://github.com/s-mcqueen/mcqueen-resume/raw/master/sean_mcqueen.pdf)
+===
 
-Unfinished. Last edited: 8/22/16
-
-See my LinkedIn: https://www.linkedin.com/in/snmcqueen
-
+This was last updated on 8/22/16
